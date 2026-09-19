@@ -1,0 +1,2 @@
+# Treat jar archives as binary to prevent line ending corruption during commit/checkout
+*.jar binary

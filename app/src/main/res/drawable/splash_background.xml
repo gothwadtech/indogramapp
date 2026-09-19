@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Premium brand blue background -->
+    <item>
+        <color android:color="#0494f4" />
+    </item>
+
+    <!-- Centered GrixChat Curved-Logo and Typography vector -->
+    <item
+        android:drawable="@drawable/ic_splash_logo"
+        android:gravity="center" />
+</layer-list>
