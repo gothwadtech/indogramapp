@@ -1,4 +1,4 @@
-# GrixChat 🚀
+# Indogram - The Telegram Client
 
 <div align="center">
 
